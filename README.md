@@ -2,5 +2,5 @@
 #Vue Loading Overlay: Vue.js component for full screen loading indicator
 
 To run this project:
-npm install
-npm run serve
+# npm install
+# npm run serve
